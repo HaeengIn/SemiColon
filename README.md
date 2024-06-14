@@ -14,3 +14,8 @@
 #### 2024년 5월 10일 <br>
 > 앞으로 동아리 프로젝트 활동에 필요한 '언리얼 엔진'의 특징과 강점을 알 수 있었다. 이 엔진은 사용자에게 시각적 개발을 할 수 있도록 지원해 주어서 텍스트 코딩에 약한 나도 잘할 수 있을 것 같다는 생각이 들었다. <br>
 > 이 엔진에 대해 공부할 때 여러 기능들을 보았는데 내가 프로젝트 활동을 할때 나에게 많은 도움을 줄 것 같았다. 물론 컴퓨터가 버티는 한에서이다.
+
+#### 2024년 6월 14일 <br>
+> 2학기때 할 프로젝트인 '교하고등학교 비공식 홈페이지'를 진행하기 위해서 깃허브(<a href="https://github.com/" target="_blank">Github</a>)의 사용법에 대해 공부했다. <br>
+> 비주얼 스튜디오 코드(<a href="https://code.visualstudio.com/" target="_blank">Visual Studio Code</a>)를 사용해 코드를 바꾸어보고 직접 <a href="https://github.com/HaeengIn/semiColon-html" target="_blank">깃허브 리포지토리</a>에 직접 커밋하여 호스팅을 통해 <a href="https://semicolon2024.netlify.app/" target="_blank">결과물</a>을 확인해보았다. <br>
+> 2학기때의 프로젝트가 기대가 된다.
